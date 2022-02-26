@@ -1,4 +1,5 @@
 
 # Project on data analysys
 
-Survival analysis on omics data
+Clustering on rna-seq data.
+
